@@ -1,0 +1,5 @@
+﻿  BlackJack.cpp
+c:\users\javier dominguez\source\repos\cis108_black_jack\cis108_black_jack\blackjack.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  CIS108_Black_Jack.vcxproj -> C:\Users\Javier Dominguez\source\repos\CIS108_Black_Jack\Debug\CIS108_Black_Jack.exe
